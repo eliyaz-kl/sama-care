@@ -1,0 +1,6 @@
+{
+  "name": "Atmaal Ops Copilot",
+  "description": "Atmaal Customer Care operations copilot for SAMA compliance, ticket triage, and automated resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
